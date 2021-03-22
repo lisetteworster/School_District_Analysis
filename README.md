@@ -13,7 +13,7 @@
 	-Replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools because eliminating them from the equation allows for the other school's grade to be elevated.
 
 	Replacing the ninth-grade scores affect the following:
-	-Math and reading scores by grade
-	-Scores by school spending
+	-Math and reading scores by grade are lower
+	-Scores by school spending is higher
 	-Scores by school size
 	-Scores by school type
